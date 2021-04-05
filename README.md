@@ -1,1 +1,2 @@
 # dockerfi
+./main.sh
